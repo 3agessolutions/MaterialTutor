@@ -8,6 +8,9 @@
   "devDependencies": {
     "browser-sync": "^2.11.1",
     "gulp": "^3.9.0",
+    "gulp-file": "^0.2.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglifyjs": "^0.6.2",
     "gulp-inject": "^3.0.0",
     "gulp-stylus": "^2.3.0",
     "main-bower-files": "^2.11.1"
